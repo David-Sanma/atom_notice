@@ -4,7 +4,6 @@
   <link href="https://david-sanma.github.io/webRss/"/>
   <updated>2022-02-09T00:45:00Z</updated>
   <id>https://david-sanma.github.io/webRss/</id>
-  <link rel="self" href="https://david-sanma.github.io/rss_notice/"/>
   <author>
     <name>D.Sanma</name>
   </author>
@@ -19,7 +18,7 @@
     <title>Videojuegos abc</title>
     <link href="https://www.abc.es/tecnologia/videojuegos/abci-como-videojuego-conseguido-convertirse-negocio-cultural-y-tecnologico-momento-202202080048_noticia.html?ref=https%3A%2F%2Fwww.abc.es%2Ftecnologia%2F"/>
     <id>https://www.abc.es/tecnologia/videojuegos/abci-como-videojuego-conseguido-convertirse-negocio-cultural-y-tecnologico-momento-202202080048_noticia.html?ref=https%3A%2F%2Fwww.abc.es%2Ftecnologia%2F</id>
-    <updated>2022-02-09T00:45:00Z</updated>
+    <updated>2022-02-08T00:45:00Z</updated>
     <summary>Evolución de los videojuegos</summary>
     <image>
       <url>https://github.com/David-Sanma/webRss/blob/main/images/imageCont.gif?raw=true</url>
@@ -31,7 +30,7 @@
     <title>Noticias el pais</title>
     <link href="https://elpais.com/tecnologia/"/>
     <id>https://elpais.com/tecnologia/</id>
-    <updated>2022-02-09T00:45:00Z</updated>
+    <updated>2022-02-07T00:45:00Z</updated>
     <summary>Noticias generales sobre tecnología</summary>
   </entry>
 </feed>
