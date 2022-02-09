@@ -20,11 +20,7 @@
     <id>https://www.abc.es/tecnologia/videojuegos/abci-como-videojuego-conseguido-convertirse-negocio-cultural-y-tecnologico-momento-202202080048_noticia.html?ref=https%3A%2F%2Fwww.abc.es%2Ftecnologia%2F</id>
     <updated>2022-02-08T00:45:00Z</updated>
     <summary>Evolución de los videojuegos</summary>
-    <image>
-      <url>https://github.com/David-Sanma/webRss/blob/main/images/imageCont.gif?raw=true</url>
-      <title>Imagen de control</title>
-      <link href="https://www.abc.es/tecnologia/videojuegos/abci-como-videojuego-conseguido-convertirse-negocio-cultural-y-tecnologico-momento-202202080048_noticia.html?ref=https%3A%2F%2Fwww.abc.es%2Ftecnologia%2F"/>
-    </image>
+    <logo>imageCont.gif</logo>
   </entry>
   <entry>
     <title>Noticias el pais</title>
