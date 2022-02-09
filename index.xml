@@ -1,35 +1,35 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <title>Noticias de informática</title>
-  <link>https://david-sanma.github.io/webRss/</link>
+  <link href="https://david-sanma.github.io/webRss/"/>
   <updated>2022-02-09T00:45:00Z</updated>
   <id>https://david-sanma.github.io/webRss/</id>
+  <link rel="self" href="https://david-sanma.github.io/rss_notice/"/>
   <author>
-    <name>D.Sanmartin</name>
+    <name>D.Sanma</name>
   </author>
-  <link href="https://david-sanma.github.io/rss_notice/" rel="self" type="application/rss+xml" />
   <entry>
     <title>Noticia es.diario</title>
-    <link>https://www.eldiario.es/tecnologia/softbank-cancela-venta-firma-britanica-chips-arm-nvidia_1_8726642.html</link>
+    <link href="https://www.eldiario.es/tecnologia/softbank-cancela-venta-firma-britanica-chips-arm-nvidia_1_8726642.html"/>
     <id>https://www.eldiario.es/tecnologia/softbank-cancela-venta-firma-britanica-chips-arm-nvidia_1_8726642.html</id>
     <updated>2022-02-09T00:45:00Z</updated>
     <summary>Softbank cancela la venta de ARM a Nvidia</summary>
   </entry>
   <entry>
     <title>Videojuegos abc</title>
-    <link>https://www.abc.es/tecnologia/videojuegos/abci-como-videojuego-conseguido-convertirse-negocio-cultural-y-tecnologico-momento-202202080048_noticia.html?ref=https%3A%2F%2Fwww.abc.es%2Ftecnologia%2F</link>
+    <link href="https://www.abc.es/tecnologia/videojuegos/abci-como-videojuego-conseguido-convertirse-negocio-cultural-y-tecnologico-momento-202202080048_noticia.html?ref=https%3A%2F%2Fwww.abc.es%2Ftecnologia%2F"/>
     <id>https://www.abc.es/tecnologia/videojuegos/abci-como-videojuego-conseguido-convertirse-negocio-cultural-y-tecnologico-momento-202202080048_noticia.html?ref=https%3A%2F%2Fwww.abc.es%2Ftecnologia%2F</id>
     <updated>2022-02-09T00:45:00Z</updated>
     <summary>Evolución de los videojuegos</summary>
     <image>
       <url>https://github.com/David-Sanma/webRss/blob/main/images/imageCont.gif?raw=true</url>
       <title>Imagen de control</title>
-      <link>https://www.abc.es/tecnologia/videojuegos/abci-como-videojuego-conseguido-convertirse-negocio-cultural-y-tecnologico-momento-202202080048_noticia.html?ref=https%3A%2F%2Fwww.abc.es%2Ftecnologia%2F</link>
+      <link href="https://www.abc.es/tecnologia/videojuegos/abci-como-videojuego-conseguido-convertirse-negocio-cultural-y-tecnologico-momento-202202080048_noticia.html?ref=https%3A%2F%2Fwww.abc.es%2Ftecnologia%2F"/>
     </image>
   </entry>
   <entry>
     <title>Noticias el pais</title>
-    <link>https://elpais.com/tecnologia/</link>
+    <link href="https://elpais.com/tecnologia/"/>
     <id>https://elpais.com/tecnologia/</id>
     <updated>2022-02-09T00:45:00Z</updated>
     <summary>Noticias generales sobre tecnología</summary>
